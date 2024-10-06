@@ -1,3 +1,5 @@
+//Script isn't working yet
+
 const canvas = document.querySelector('#scene');
 canvas.width = canvas.clientWidth;
 canvas.height = canvas.clientHeight;
